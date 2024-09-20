@@ -24,5 +24,3 @@ This project demonstrates the process of creating a vector database using Chroma
     <li>Using RAG to ask questions about the book "Alice in Wonderland"</li>
 </ul>
 
-
-![image](https://github.com/user-attachments/assets/65657a1b-76ab-4bec-a60b-8bfe45ceb407)
