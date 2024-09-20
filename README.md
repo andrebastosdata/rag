@@ -26,7 +26,3 @@ This project demonstrates the process of creating a vector database using Chroma
 
 
 ![image](https://github.com/user-attachments/assets/65657a1b-76ab-4bec-a60b-8bfe45ceb407)
-
-
-
-![image](https://github.com/user-attachments/assets/2da2a63d-9052-4534-8e10-79eee7b72d62)
