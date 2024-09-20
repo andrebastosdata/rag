@@ -18,9 +18,3 @@ This project demonstrates the process of creating a vector database using Chroma
     <li>To create the vector database from your Markdown documents, run: python create_database.py</li>
     <li>To perform a question-answering task using the RAG approach, execute: python query_data.py "Your question here"</li>
 </ul>
-
-<h2>Example</h2>
-<ul>
-    <li>Using RAG to ask questions about the book "Alice in Wonderland"</li>
-</ul>
-
